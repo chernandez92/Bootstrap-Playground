@@ -1,0 +1,23 @@
+img{
+  width:100%;
+  object-fit: contain;
+}
+
+#navImg{
+  object-fit: contain;
+  width: 100px;
+  height: 90px;
+}
+.row{
+  display:flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+#jumbo{
+  padding:0;
+}
+
+.active{
+  
+}
